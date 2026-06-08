@@ -20,6 +20,6 @@ A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 ## Screenshot
 <img width="1670" height="1491" alt="image" src="https://github.com/user-attachments/assets/97699f8f-ab64-423a-b743-03028f3dc2f4" />
 
-
+🌐 Live Demo: https: https://tic-tac-toe-js-jade-phi.vercel.app/
 ## Author
 Simran Bist
